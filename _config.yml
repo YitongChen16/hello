@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome"
+title                    : "Yitong Chen"
 title_separator          : "-"
 name                     : &name "Welcome"
 description              : &description "personal description"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "chenyitong.jpg"
   name             : "Yitong Chen"
-  pronouns         : # example: "she/her"  
-  bio              : " "
-  location         : "Hangzhou China"
+  pronouns         : "she/her"  
+  bio              : "Postdoctoral Scholar, Electrical Engineering, Westlake University"
+  location         : "Hangzhou, China"
   employer         : "Westlake University"
   uri              : # URL
   email            : "chenyitong@westlake.edu.cn" 

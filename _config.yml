@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yitong Chen"
+title                    : "Yitong Chen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Welcome"
 description              : &description "personal description"

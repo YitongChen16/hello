@@ -11,16 +11,16 @@ Yitong Chen is currently a Postdoctoral Scholar in the School of Engineering at 
 
 Education & Training
 ======
-●  Westlake University, Hangzhou, Zhejiang Province, China (2025-present)    
+●  **Westlake University**, Hangzhou, Zhejiang Province, China (2025-present)    
 &emsp;&emsp;○  Postdoctoral Scholar in Electrical Engineering  
 &emsp;&emsp;○  Advisor: Prof. Wei Wang  
 
-●  Zhejiang University, Hangzhou, Zhejiang Province, China (2020-2025)  
+●  **Zhejiang University**, Hangzhou, Zhejiang Province, China (2020-2025)  
 &emsp;&emsp;○  Ph.D. in Materials Science and Engineering  
 &emsp;&emsp;○  Zhejiang University & Westlake University joint Ph.D. program  
 &emsp;&emsp;○  Advisor: Prof. Bowen Zhu  
 
-●  South China Normal University, Guangzhou, Guangdong Province, China (2016-2020)  
+●  **South China Normal University**, Guangzhou, Guangdong Province, China (2016-2020)  
 &emsp;&emsp;○  Postdoctoral Scholar in Electrical Engineering  
 &emsp;&emsp;○  Advisor: Prof. Bingjia Xu  
 

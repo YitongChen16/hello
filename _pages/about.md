@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yitong Chen is currently a Postdoctoral Scholar in the School of Engineering at Westlake University (July 2025–present), working under the supervision of Professor Wei Wang. She received her B.Eng. degree in New Energy Materials and Devices from South China Normal University in 2020 and her Ph.D. degree in Materials Science and Engineering from Zhejiang University in 2025. Her research focuses on the integration of micro/nanoscale actuators with integrated circuits to develop intelligent microrobotic systems.
+Yitong Chen is currently a Postdoctoral Scholar in the School of Engineering at Westlake University (July 2025–present), working under the supervision of Professor Wei Wang. She received her B.Eng. degree in New Energy Materials and Devices from South China Normal University in 2020 and her Ph.D. degree in Materials Science and Engineering from Zhejiang University in 2025. Now her research focuses on the integration of micro/nanoscale actuators with integrated circuits to develop intelligent microrobotic systems.
 
 Education & Training
 ======

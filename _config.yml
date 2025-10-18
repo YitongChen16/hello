@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chenyitong.jpg"
+  avatar           : "yitongchen.png"
   name             : "Yitong Chen"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Scholar, Electrical Engineering, Westlake University"

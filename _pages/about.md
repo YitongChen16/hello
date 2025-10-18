@@ -43,7 +43,7 @@ Updating
 
 PUBLICATIONS
 ------
-[Google Scholar](https://scholar.google.com/citations?user=JlZL-xQAAAAJ&hl=zh-CN) 
+[Google Scholar](https://scholar.google.com/citations?user=JlZL-xQAAAAJ&hl=zh-CN)  
 Equal Contribution: †  
 [1]	**Chen, Y.†**, Wang, R.†; Zhang, S., Chen, F.; Tang, Y.; Ren, S.; Li, D.; Wang, Y.; Ren, H.; Liu, G.; Li, F.; Wang, H.* and Zhu, B. * (2025). A 2D MoS2‐based active‐matrix photosensor array for neuromorphic vision. Adv. Funct. Mater. 2025, 2507954.  
 [2]	**Chen, Y.†**; Wang, R.†; Li, D.; Huang, Q.; Tang, Y.; Ren, H.; Wang, Y.; Liu, G.; Li, F.; Wang, H.; et al. Optoelectronic reservoir computing based on 2D P-Type Nb-doped MoS2 field-effect transistor. Small 2025, e2503836.  

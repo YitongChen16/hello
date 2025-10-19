@@ -27,9 +27,9 @@ Education & Training
 
 RESEARCH EXPERIENCE
 ======
-●  **Active matrix driver arrays and sensing arrays based on oxide/2D materials**  
+●  **Active matrix driver arrays and sensing arrays based on 2D materials**  
 &emsp;&emsp;○  Developed a 64*64 active pixel image sensor matrix for static image recognition and motion perception.  
-&emsp;&emsp;○  Developed a flexible, transparent, active-matrix tactile sensor array by monolithically integrating indium oxide thin-film transistor (TFT) array with a highly pressure-sensitive micro-pyramidal film.  
+&emsp;&emsp;○  Developed a flexible, transparent, active-matrix tactile sensor array by monolithically integrating 2D field-effect transistor (FET) array with a highly pressure-sensitive micro-pyramidal film.  
 ●  **Two-dimensional ferroelectric materials and the devices for neuromorphic computing**  
 &emsp;&emsp;○  Demonstrated bidirectional synaptic phototransistor for neuromorphic vision hardware.  
 &emsp;&emsp;○  Demonstrated highly linear and symmetric synaptic memtransistors for neuromorphic computing.  
